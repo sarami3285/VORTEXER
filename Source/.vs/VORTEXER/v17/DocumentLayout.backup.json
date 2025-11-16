@@ -1,0 +1,1372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VORTEXER_ver1.00\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:SpriteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:LowLevelEnemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:LowLevelEnemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:SpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:WeaponComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:InputComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\InputComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:InputComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MoveComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Scenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Scenes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:ScrollItemComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:ScrollItemComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\UIButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:UIButton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Scenes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Scenes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HPBarComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MiniMapComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MiniMapSpriteComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MiniMapSpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MiniMapComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\WeaponData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Data\\WeaponData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\WeaponData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:WeaponData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Data\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:BlinkingTextComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:BlinkingTextComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\DataManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:DataManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HPComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HPComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\DataManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:DataManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\VORTEXER.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:VORTEXER.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Assets\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\DeathEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:DeathEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:LockOnComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:LockOnComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HUDSpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HUDSpriteComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\UIButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:UIButton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\CameraComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:CameraComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\AudioComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:AudioComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\AudioComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:AudioComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:TileMapComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:EnemyBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:CollisionComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\CameraComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:CameraComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VORTEXER_\\Source\\Assets\\Data\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:SpriteSheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:SpriteSheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:WeaponComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\WeaponData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\SaveData.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HUDActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HUDActor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\MoveComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:MoveComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:CollisionComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HPBarComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\HPComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:HPComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:EnemyBullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\DeathEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:DeathEffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:TileMapComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|D:\\VORTEXER_ver1.00\\Source\\EnemyAIComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2F7F5BD-2F18-4B3C-989F-CFB51984A6D1}|VORTEXER.vcxproj|solutionrelative:EnemyAIComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VORTEXER_ver1.00\\Source\\lib\\SDL2_image-2.8.8\\include\\SDL_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lib\\SDL2_image-2.8.8\\include\\SDL_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\InputComponent.cpp",
+              "RelativeDocumentMoniker": "InputComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\InputComponent.cpp",
+              "RelativeToolTip": "InputComponent.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T13:31:52.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LowLevelEnemy.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.cpp",
+              "RelativeDocumentMoniker": "LowLevelEnemy.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.cpp",
+              "RelativeToolTip": "LowLevelEnemy.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:14:31.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Actor.cpp",
+              "RelativeDocumentMoniker": "Actor.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Actor.cpp",
+              "RelativeToolTip": "Actor.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T06:17:39.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Actor.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Actor.h",
+              "RelativeDocumentMoniker": "Actor.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Actor.h",
+              "RelativeToolTip": "Actor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T06:11:08.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T13:53:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Scenes.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Scenes.cpp",
+              "RelativeDocumentMoniker": "Scenes.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Scenes.cpp",
+              "RelativeToolTip": "Scenes.cpp",
+              "ViewState": "AgIAAB8BAAAAAAAAAADwvy4BAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T05:43:51.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.cpp",
+              "RelativeDocumentMoniker": "SpriteComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.cpp",
+              "RelativeToolTip": "SpriteComponent.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T11:05:10.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T07:04:15.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LowLevelEnemy.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.h",
+              "RelativeDocumentMoniker": "LowLevelEnemy.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\LowLevelEnemy.h",
+              "RelativeToolTip": "LowLevelEnemy.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T08:03:55.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpriteComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.h",
+              "RelativeDocumentMoniker": "SpriteComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\SpriteComponent.h",
+              "RelativeToolTip": "SpriteComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T10:35:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Scene.h",
+              "RelativeDocumentMoniker": "Scene.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Scene.h",
+              "RelativeToolTip": "Scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T05:42:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Scenes.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Scenes.h",
+              "RelativeDocumentMoniker": "Scenes.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Scenes.h",
+              "RelativeToolTip": "Scenes.h",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v04AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-30T06:19:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\UIManager.cpp",
+              "RelativeDocumentMoniker": "UIManager.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\UIManager.cpp",
+              "RelativeToolTip": "UIManager.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T00:23:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIButton.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\UIButton.cpp",
+              "RelativeDocumentMoniker": "UIButton.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\UIButton.cpp",
+              "RelativeToolTip": "UIButton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T02:02:31.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScrollItemComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.cpp",
+              "RelativeDocumentMoniker": "ScrollItemComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.cpp",
+              "RelativeToolTip": "ScrollItemComponent.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T06:18:02.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HPBarComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.cpp",
+              "RelativeDocumentMoniker": "HPBarComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.cpp",
+              "RelativeToolTip": "HPBarComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T04:57:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAABoBAAAAAAAAAAAhwEYBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T17:41:37.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoveComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MoveComponent.cpp",
+              "RelativeDocumentMoniker": "MoveComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MoveComponent.cpp",
+              "RelativeToolTip": "MoveComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T13:35:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeaponComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.cpp",
+              "RelativeDocumentMoniker": "WeaponComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.cpp",
+              "RelativeToolTip": "WeaponComponent.cpp",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAYwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T05:21:29.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MiniMapSpriteComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.h",
+              "RelativeDocumentMoniker": "MiniMapSpriteComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.h",
+              "RelativeToolTip": "MiniMapSpriteComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T07:41:03.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MiniMapComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.cpp",
+              "RelativeDocumentMoniker": "MiniMapComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.cpp",
+              "RelativeToolTip": "MiniMapComponent.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T07:46:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MiniMapSpriteComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.cpp",
+              "RelativeDocumentMoniker": "MiniMapSpriteComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MiniMapSpriteComponent.cpp",
+              "RelativeToolTip": "MiniMapSpriteComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T07:42:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MiniMapComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.h",
+              "RelativeDocumentMoniker": "MiniMapComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MiniMapComponent.h",
+              "RelativeToolTip": "MiniMapComponent.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-26T07:45:34.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-18T17:38:25.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeaponData.json",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\WeaponData.json",
+              "RelativeDocumentMoniker": "Assets\\Data\\WeaponData.json",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\WeaponData.json",
+              "RelativeToolTip": "Assets\\Data\\WeaponData.json",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T01:57:18.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScrollItemComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.h",
+              "RelativeDocumentMoniker": "ScrollItemComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\ScrollItemComponent.h",
+              "RelativeToolTip": "ScrollItemComponent.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T06:11:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeaponData.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\WeaponData.h",
+              "RelativeDocumentMoniker": "WeaponData.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\WeaponData.h",
+              "RelativeToolTip": "WeaponData.h",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T05:19:36.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SaveData.json",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\SaveData.json",
+              "RelativeDocumentMoniker": "Assets\\Data\\SaveData.json",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Assets\\Data\\SaveData.json",
+              "RelativeToolTip": "Assets\\Data\\SaveData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T02:21:43.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BlinkingTextComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.h",
+              "RelativeDocumentMoniker": "BlinkingTextComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.h",
+              "RelativeToolTip": "BlinkingTextComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T07:21:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "json.hpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\json.hpp",
+              "RelativeDocumentMoniker": "json.hpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\json.hpp",
+              "RelativeToolTip": "json.hpp",
+              "ViewState": "AgIAACcjAAAAAAAAAADwv0MjAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-23T01:14:17.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BlinkingTextComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.cpp",
+              "RelativeDocumentMoniker": "BlinkingTextComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\BlinkingTextComponent.cpp",
+              "RelativeToolTip": "BlinkingTextComponent.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T07:22:40.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataManager.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\DataManager.cpp",
+              "RelativeDocumentMoniker": "DataManager.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\DataManager.cpp",
+              "RelativeToolTip": "DataManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-07T01:03:01.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VORTEXER.rc",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\VORTEXER.rc",
+              "RelativeDocumentMoniker": "VORTEXER.rc",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\VORTEXER.rc",
+              "RelativeToolTip": "VORTEXER.rc",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-24T04:03:52.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HPComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HPComponent.cpp",
+              "RelativeDocumentMoniker": "HPComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HPComponent.cpp",
+              "RelativeToolTip": "HPComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T04:40:12.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\memory",
+              "ViewState": "AgIAAMkMAAAAAAAAAAAAwOIMAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-30T05:57:14.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataManager.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\DataManager.h",
+              "RelativeDocumentMoniker": "DataManager.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\DataManager.h",
+              "RelativeToolTip": "DataManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T01:02:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Component.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Component.h",
+              "RelativeDocumentMoniker": "Component.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Component.h",
+              "RelativeToolTip": "Component.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T06:18:10.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "icon.png",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.png",
+              "RelativeDocumentMoniker": "Assets\\icon.png",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.png",
+              "RelativeToolTip": "Assets\\icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-24T01:49:53.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "icon.ico - Icon [32x32, 32 \u30D3\u30C3\u30C8, BMP]",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.ico",
+              "RelativeDocumentMoniker": "Assets\\icon.ico",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Assets\\icon.ico - Icon [32x32, 32 \u30D3\u30C3\u30C8, BMP]",
+              "RelativeToolTip": "Assets\\icon.ico - Icon [32x32, 32 \u30D3\u30C3\u30C8, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-09-24T02:34:46.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LockOnComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.cpp",
+              "RelativeDocumentMoniker": "LockOnComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.cpp",
+              "RelativeToolTip": "LockOnComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T02:13:23.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Bullet.cpp",
+              "RelativeDocumentMoniker": "Bullet.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Bullet.cpp",
+              "RelativeToolTip": "Bullet.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T01:42:56.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LockOnComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.h",
+              "RelativeDocumentMoniker": "LockOnComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\LockOnComponent.h",
+              "RelativeToolTip": "LockOnComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T02:03:19.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeathEffect.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\DeathEffect.cpp",
+              "RelativeDocumentMoniker": "DeathEffect.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\DeathEffect.cpp",
+              "RelativeToolTip": "DeathEffect.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T07:07:21.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Component.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Component.cpp",
+              "RelativeDocumentMoniker": "Component.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Component.cpp",
+              "RelativeToolTip": "Component.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:42:42.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-12T08:37:28.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HUDSpriteComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HUDSpriteComponent.h",
+              "RelativeDocumentMoniker": "HUDSpriteComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HUDSpriteComponent.h",
+              "RelativeToolTip": "HUDSpriteComponent.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-25T01:48:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xutility",
+              "ViewState": "AgIAAAkYAAAAAAAAAAAIwB8YAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-22T05:46:41.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Bullet.h",
+              "RelativeDocumentMoniker": "Bullet.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Bullet.h",
+              "RelativeToolTip": "Bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T01:08:08.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UIButton.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\UIButton.h",
+              "RelativeDocumentMoniker": "UIButton.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\UIButton.h",
+              "RelativeToolTip": "UIButton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T02:01:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AudioComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\AudioComponent.h",
+              "RelativeDocumentMoniker": "AudioComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\AudioComponent.h",
+              "RelativeToolTip": "AudioComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T01:57:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AudioComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\AudioComponent.cpp",
+              "RelativeDocumentMoniker": "AudioComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\AudioComponent.cpp",
+              "RelativeToolTip": "AudioComponent.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T01:57:10.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CameraComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\CameraComponent.h",
+              "RelativeDocumentMoniker": "CameraComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\CameraComponent.h",
+              "RelativeToolTip": "CameraComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T01:06:50.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TileMapComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.cpp",
+              "RelativeDocumentMoniker": "TileMapComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.cpp",
+              "RelativeToolTip": "TileMapComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T00:40:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Random.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Random.cpp",
+              "RelativeDocumentMoniker": "Random.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Random.cpp",
+              "RelativeToolTip": "Random.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:24:27.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-18T17:44:03.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EnemyBullet.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.cpp",
+              "RelativeDocumentMoniker": "EnemyBullet.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.cpp",
+              "RelativeToolTip": "EnemyBullet.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T00:39:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CollisionComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.cpp",
+              "RelativeDocumentMoniker": "CollisionComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.cpp",
+              "RelativeToolTip": "CollisionComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T08:53:51.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CameraComponent.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\CameraComponent.cpp",
+              "RelativeDocumentMoniker": "CameraComponent.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\CameraComponent.cpp",
+              "RelativeToolTip": "CameraComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T01:07:05.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SaveData.json",
+              "DocumentMoniker": "D:\\VORTEXER_\\Source\\Assets\\Data\\SaveData.json",
+              "RelativeDocumentMoniker": "..\\..\\VORTEXER_\\Source\\Assets\\Data\\SaveData.json",
+              "ToolTip": "D:\\VORTEXER_\\Source\\Assets\\Data\\SaveData.json",
+              "RelativeToolTip": "..\\..\\VORTEXER_\\Source\\Assets\\Data\\SaveData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T03:24:03.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "xhash",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xhash",
+              "ViewState": "AgIAAPMFAAAAAAAAAAAiwAIGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-18T03:19:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SpriteSheet.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.h",
+              "RelativeDocumentMoniker": "SpriteSheet.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.h",
+              "RelativeToolTip": "SpriteSheet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-25T06:00:00.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SpriteSheet.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.cpp",
+              "RelativeDocumentMoniker": "SpriteSheet.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\SpriteSheet.cpp",
+              "RelativeToolTip": "SpriteSheet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T06:00:26.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xstring",
+              "ViewState": "AgIAAKYCAAAAAAAAAAAiwLUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T04:43:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "WeaponComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.h",
+              "RelativeDocumentMoniker": "WeaponComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\WeaponComponent.h",
+              "RelativeToolTip": "WeaponComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T05:20:35.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WeaponData.json",
+              "DocumentMoniker": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\WeaponData.json",
+              "ToolTip": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\WeaponData.json",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T00:57:37.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Math.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Math.h",
+              "RelativeDocumentMoniker": "Math.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Math.h",
+              "RelativeToolTip": "Math.h",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAmwNoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T06:13:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SaveData.json",
+              "DocumentMoniker": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\SaveData.json",
+              "ToolTip": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\Assets\\Data\\SaveData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T01:37:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Math.cpp",
+              "RelativeDocumentMoniker": "Math.cpp",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Math.cpp",
+              "RelativeToolTip": "Math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T02:52:20.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SaveData.json",
+              "DocumentMoniker": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\SaveData.json",
+              "ToolTip": "C:\\Users\\\u5E84\u592A\u90CE\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\VORTEXER\\SaveData.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T01:13:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HUDActor.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HUDActor.h",
+              "RelativeDocumentMoniker": "HUDActor.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HUDActor.h",
+              "RelativeToolTip": "HUDActor.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-25T01:50:35.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MoveComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\MoveComponent.h",
+              "RelativeDocumentMoniker": "MoveComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\MoveComponent.h",
+              "RelativeToolTip": "MoveComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T12:17:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InputComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\InputComponent.h",
+              "RelativeDocumentMoniker": "InputComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\InputComponent.h",
+              "RelativeToolTip": "InputComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T12:52:07.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "new_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\new_scalar.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T08:34:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CollisionComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.h",
+              "RelativeDocumentMoniker": "CollisionComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\CollisionComponent.h",
+              "RelativeToolTip": "CollisionComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T08:49:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HPBarComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.h",
+              "RelativeDocumentMoniker": "HPBarComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HPBarComponent.h",
+              "RelativeToolTip": "HPBarComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T04:58:03.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HPComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\HPComponent.h",
+              "RelativeDocumentMoniker": "HPComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\HPComponent.h",
+              "RelativeToolTip": "HPComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T04:40:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SDL_image.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\lib\\SDL2_image-2.8.8\\include\\SDL_image.h",
+              "RelativeDocumentMoniker": "lib\\SDL2_image-2.8.8\\include\\SDL_image.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\lib\\SDL2_image-2.8.8\\include\\SDL_image.h",
+              "RelativeToolTip": "lib\\SDL2_image-2.8.8\\include\\SDL_image.h",
+              "ViewState": "AgIAAOAHAAAAAAAAAAAhwPYHAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-25T00:58:13.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EnemyBullet.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.h",
+              "RelativeDocumentMoniker": "EnemyBullet.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\EnemyBullet.h",
+              "RelativeToolTip": "EnemyBullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T00:38:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\UIManager.h",
+              "RelativeDocumentMoniker": "UIManager.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\UIManager.h",
+              "RelativeToolTip": "UIManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-25T00:23:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DeathEffect.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\DeathEffect.h",
+              "RelativeDocumentMoniker": "DeathEffect.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\DeathEffect.h",
+              "RelativeToolTip": "DeathEffect.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T07:03:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xmemory",
+              "ViewState": "AgIAAEsFAAAAAAAAAAASwEQFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-19T02:37:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T06:13:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TileMapComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.h",
+              "RelativeDocumentMoniker": "TileMapComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\TileMapComponent.h",
+              "RelativeToolTip": "TileMapComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T00:40:21.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "EnemyAIComponent.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\EnemyAIComponent.h",
+              "RelativeDocumentMoniker": "EnemyAIComponent.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\EnemyAIComponent.h",
+              "RelativeToolTip": "EnemyAIComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T14:12:54.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Random.h",
+              "DocumentMoniker": "D:\\VORTEXER_ver1.00\\Source\\Random.h",
+              "RelativeDocumentMoniker": "Random.h",
+              "ToolTip": "D:\\VORTEXER_ver1.00\\Source\\Random.h",
+              "RelativeToolTip": "Random.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T08:23:52.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
