@@ -1,6 +1,0 @@
-﻿  Game.cpp
-C:\Users\庄太郎\OneDrive\デスクトップ\VORTEXER\VORTEXER\CollisionComponent.h(3,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
-  (ソース ファイル 'Game.cpp' をコンパイルしています)
-  
-C:\Users\庄太郎\OneDrive\デスクトップ\VORTEXER\VORTEXER\Game.cpp(241,2): warning C4551: 関数呼び出しに引数リストがありません。
-  VORTEXER.vcxproj -> C:\Users\庄太郎\OneDrive\デスクトップ\VORTEXER\VORTEXER\x64\Debug\VORTEXER.exe
